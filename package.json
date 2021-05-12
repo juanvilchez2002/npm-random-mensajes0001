@@ -14,7 +14,15 @@
   "author": "Juan Vilchez <juanvilchez2002@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanvilchez2002/npm-random-mensajes0001.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juanvilchez2002/npm-random-mensajes0001/issues"
+  },
+  "homepage": "https://github.com/juanvilchez2002/npm-random-mensajes0001#readme"
 }
